@@ -50,4 +50,4 @@ Any changes will be reflected by updating the "Last Updated" date on this page.
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** 
+**Email:** ykrosdev@gmail.com
